@@ -19,5 +19,5 @@ _Also plenty of Java in a past life._
 
 ## Links
 
-- Website: [www.jysf.org](https://www.jysf.org)
+- Website: [www.jysf.org](https://www.jysf.org/?utm_source=github&utm_medium=profile-readme&utm_campaign=github-profile)
 - GitHub: [@jysf](https://github.com/jysf)
