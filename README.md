@@ -13,7 +13,7 @@ I like building small, sharp tools and I work across the stack, mostly in Go, Ru
 
 ## Tech & tools
 
-`Go` · `Rust` · `Python` · `TypeScript` · `React` · `Shell` · `Temporal` · `just` · `Git` · CLIs · developer tooling
+`Go` · `Rust` · `Python` · `TypeScript` · `React` · `Shell` · `Temporal` · `just` · `SQLite` · `DuckDB` · `ClickHouse` · `Git` · CLIs · developer tooling
 
 _Also plenty of Java in a past life._
 
