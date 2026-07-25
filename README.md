@@ -1,8 +1,8 @@
 # Hi, I'm Jason 👋
 
-Engineer, architect, manager, and software generalist — based in San Francisco, CA.
+Software generalist, architect and manager; based in San Francisco, CA.
 
-I like building small, sharp tools and I work across the stack, mostly in Go, Rust, Python, and TypeScript.
+I like fun and/or interesting tools and I work across the stack, mostly in Go, Rust, Python, and TypeScript.
 
 ## What I'm working on
 
