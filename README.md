@@ -13,7 +13,7 @@ I like fun and/or interesting tools and I work across the stack, mostly in Go, R
 
 ## Tech & tools
 
-`Go` · `Rust` · `Python` · `TypeScript` · `React` · `Shell` · `Temporal` · `just` · `SQLite` · `DuckDB` · `ClickHouse` · `MySQL` · `Postgres` · `Git` · CLIs · developer tooling
+`Go` · `Rust` · `Python` · `TypeScript` · `React` · `Shell` · `Temporal` · `just` · `SQLite` · `DuckDB` · `ClickHouse` · `MySQL` · `Postgres` · `Git` · `CLIs` · `developer tooling`
 
 _Also plenty of Java in a past life._
 
