@@ -9,7 +9,7 @@ I like fun and/or interesting tools and I work across the stack, mostly in Go, R
 - **[bragfile000](https://github.com/jysf/bragfile000)** (Go) — a CLI for capturing brag-file entries.
 - **[crustyimg](https://github.com/jysf/crustyimg)** (Rust) — an image optimizer. [demo](https://jysf.github.io/crustyimg/)
 - **[spec-driven-template](https://github.com/jysf/spec-driven-template)** (Shell) — a project template for spec-driven development.
-- **[zany-animal-slots](https://github.com/jysf/zany-animal-slots)** (React / TypeScript) — a playful slots game · [live demo](https://zany-animal-slots.jysf.org/?utm_source=github&utm_medium=profile-readme&utm_campaign=github-profile) _(under development)_.
+- **[zany-animal-slots](https://github.com/jysf/zany-animal-slots)** (React / TypeScript) — a playful slots game · [live demo](https://zany-animal-slots.jysf.org/?utm_source=github&utm_medium=profile-readme&utm_campaign=github-profile)
 
 ## Tech & tools
 
